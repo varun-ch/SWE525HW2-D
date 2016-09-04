@@ -1,1 +1,2 @@
 B
+A new line from stashing branch
