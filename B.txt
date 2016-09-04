@@ -1,1 +1,2 @@
 B
+new line in B
